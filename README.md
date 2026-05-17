@@ -16,8 +16,8 @@ Spring Boot와 React를 중심으로 웹 서비스를 개발했으며,
 | ----- | ----------------------------------------------- |
 | 이름    | 문예지                                             |
 | 희망 직무 | 신입 풀스택 개발자 / 웹 개발자                              |
-| 관심 분야 | 커머스 서비스, 실시간 기능, 사용자 중심 UI/UX                   |
-| 주요 기술 | Java, Spring Boot, React, MySQL                 |
+| 관심 분야 | 커머스 서비스 · 실시간 기능 · 사용자 중심 UI/UX                 |
+| 주요 기술 | Java · Spring Boot · React · MySQL              |
 | 이메일   | [herb6696@gmail.com](mailto:herb6696@gmail.com) |
 
 <br/>
@@ -25,8 +25,6 @@ Spring Boot와 React를 중심으로 웹 서비스를 개발했으며,
 ## 🛠 Tech Stack
 
 ### Backend
-
-Java · Spring Boot · Spring Security · JPA · JWT
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
@@ -38,8 +36,6 @@ Java · Spring Boot · Spring Security · JPA · JWT
 
 ### Frontend
 
-React · JavaScript · HTML5 · CSS3
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
@@ -49,16 +45,12 @@ React · JavaScript · HTML5 · CSS3
 
 ### Database
 
-MySQL · Oracle
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
 
 <br/>
 
 ### Realtime / API
-
-Node.js · Socket.io · WebRTC · REST API · PortOne
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
@@ -69,8 +61,6 @@ Node.js · Socket.io · WebRTC · REST API · PortOne
 <br/>
 
 ### Tools / Infra
-
-GitHub · Docker · AWS
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
@@ -91,11 +81,11 @@ GitHub · Docker · AWS
 
 ## 🔗 Links
 
-| 구분     | 링크                                                                                 |
-| ------ | ---------------------------------------------------------------------------------- |
-| 배포 사이트 | https://stylink.encanbio.co.kr                                                     |
-| 포트폴리오  | https://www.notion.so/Portfolio-113b5864179e82ac9f2501056f285196?source=copy_link  |
-| 발표 자료  | https://drive.google.com/file/d/1QNe9MUIYwP69KQfYCklGnVARGt4g3dWn/view?usp=sharing |
+| 구분    | 링크                                                                                 |
+| ----- | ---------------------------------------------------------------------------------- |
+| 배포사이트 | https://stylink.encanbio.co.kr                                                     |
+| 노션    | https://www.notion.so/Portfolio-113b5864179e82ac9f2501056f285196?source=copy_link  |
+| PPT   | https://drive.google.com/file/d/1QNe9MUIYwP69KQfYCklGnVARGt4g3dWn/view?usp=sharing |
 
 <br/>
 
@@ -114,16 +104,16 @@ GitHub · Docker · AWS
 ## 🎬 Preview
 
 <!--
-여기에 대표 GIF 삽입 추천
+여기에 대표 GIF 삽입
 
-1순위 :
-피드 소비 → 상품 연결 → 상품 상세 이동 GIF
-
-2순위 :
-AI 스타일 추천 GIF
+추천 :
+1. 피드 → 상품 → 상품상세 이동 흐름
+2. AI 스타일 추천
 -->
 
 ![Stylink Preview](여기에_GIF_링크)
+
+> 스타일 피드에서 상품 상세 페이지까지 이어지는 커머스 탐색 흐름
 
 <br/>
 
@@ -176,11 +166,11 @@ AI 스타일 추천 GIF
 
 ## 🔗 Links
 
-| 구분     | 링크                                                                                 |
-| ------ | ---------------------------------------------------------------------------------- |
-| 배포 사이트 | https://gneul.encanbio.co.kr                                                       |
-| 포트폴리오  | https://www.notion.so/Portfolio-113b5864179e82ac9f2501056f285196?source=copy_link  |
-| 발표 자료  | https://drive.google.com/file/d/1HjIXcS49GLyqFbyoIdTygiP9uoa54pbY/view?usp=sharing |
+| 구분    | 링크                                                                                 |
+| ----- | ---------------------------------------------------------------------------------- |
+| 배포사이트 | https://gneul.encanbio.co.kr                                                       |
+| 노션    | https://www.notion.so/Portfolio-113b5864179e82ac9f2501056f285196?source=copy_link  |
+| PPT   | https://drive.google.com/file/d/1HjIXcS49GLyqFbyoIdTygiP9uoa54pbY/view?usp=sharing |
 
 <br/>
 
@@ -190,7 +180,7 @@ AI 스타일 추천 GIF
 | ------- | ---------------------------------------------------------- |
 | 프로젝트 유형 | 팀 프로젝트                                                     |
 | 개발 기간   | 2026.03 ~ 2026.04                                          |
-| 개발 인원   | 5명                                                         |
+| 개발 인원   | 2명                                                         |
 | 담당 역할   | 실시간 서비스 · 결제 연동 · 채팅 · 포인트/리워드 · 라이브 기능                    |
 | 주요 기술   | Spring Boot · React · MySQL · Node.js · Socket.io · WebRTC |
 
@@ -199,19 +189,17 @@ AI 스타일 추천 GIF
 ## 🎬 Preview
 
 <!--
-여기에 대표 GIF 삽입 추천
+여기에 대표 GIF 삽입
 
-1순위 :
-라이브 방송 + 실시간 채팅 + 도네이션 GIF
-
-2순위 :
-예약 결제 + 상태 변경 GIF
-
-3순위 :
-관리자 방송 권한 신청/승인 GIF
+추천 :
+1. 라이브 방송 + 실시간 채팅 + 도네이션
+2. 예약 결제 + 상태 변경
+3. 관리자 방송 권한 신청/승인
 -->
 
 ![GNEUL Preview](여기에_GIF_링크)
+
+> 실시간 라이브 방송과 채팅, 도네이션 기능이 함께 동작하는 흐름
 
 <br/>
 
