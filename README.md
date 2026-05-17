@@ -264,11 +264,7 @@
 
 <br/>
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=herb2194&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herb2194&layout=compact)
+---
 
 <br/>
 
