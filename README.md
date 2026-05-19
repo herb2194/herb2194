@@ -27,32 +27,19 @@
 
 ## 🛠 Tech Stack
 
-### Backend
-
+**Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<br/>
-
-### Frontend
-
+**Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br/>
-
-### Database
-
+**Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-<br/>
-
-### Realtime / API
-
+**Realtime / API**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square) ![PortOne](https://img.shields.io/badge/PortOne-222222?style=flat-square)
 
-<br/>
-
-### Tools / Infra
-
+**Tools / Infra**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 <br/>
@@ -71,7 +58,7 @@
 
 ---
 
-# 👗 Stylink
+# 👗 Stylink (개인)
 
 > AI 기반 패션 커머스 통합 플랫폼  
 > B2C 쇼핑 · B2B 도매관 · 피드 · 라이브 커머스 · AI 추천 기능을 하나의 서비스 흐름으로 연결한 개인 프로젝트입니다.
@@ -152,7 +139,7 @@
 
 ---
 
-# 🏠 GNEUL
+# 🏠 GNEUL (팀)
 
 > 공간대여와 라이브 스트리밍을 결합한 커머스형 플랫폼  
 > 실시간 라이브 방송, 채팅, 예약 결제, 권한 승인 흐름을 구현한 팀 프로젝트입니다.
